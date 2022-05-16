@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @libertyspace
-- 👀 I’m interested in Music, IT, Gaming, Sports... a lot of stuff 😀
+- 👀 I’m interested in IT, Music, Gaming, Sports... a lot of stuff 😀
 - 🌱 I’m currently learning to code. 
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me libertyspace@gmail.com
+- 📫 How to reach me libertyspace4@gmail.com
 
-<!---
-libertyspace/libertyspace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
